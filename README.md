@@ -1,4 +1,5 @@
 #Accessibility
+
 In the context of this course, accessibility refers to the design and functionality of your app, so that it is easier for more people, including those with disabilities, to use. It also means that your app will work well with assistive technologies such as the Talkback screen reader. Making your app more accessible leads to an overall better user experience, which benefits all your users.
 
 #adb (Android Debug Bridge)
